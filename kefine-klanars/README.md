@@ -1,6 +1,6 @@
 ## Kiwiears Melody EQ settings
 
-Since I like the sound signature of my Kiwiears Canta, I just went [here](https://pw.squig.link/?share=Kiwi_Ears_Canta,Kefine_Klanar) and adjusted the Klanar's until it resembled it a bit and then made small changes until it sounded nice to me and got this result:
+Since I like the sound signature of my Kiwiears Canta, I just went [here](https://pw.squig.link/?share=Kiwi_Ears_Canta,Kiwi_Ears_Melody) and adjusted the Klanar's until it resembled it a bit and then made small changes until it sounded nice to me and got this result:
 
 ```
 Preamp: -5.5 dB
@@ -17,4 +17,4 @@ Filter 10: OFF PK Fc 0 Hz Gain 0.0 dB Q 0.000
 ```
 
 
-![Kiwiears Meloddy eq settings](melody.png)
+![Kiwiears Melody eq settings](melody.png)
